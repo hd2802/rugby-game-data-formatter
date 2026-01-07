@@ -1,0 +1,769 @@
+{
+  "total_unique": 191,
+  "teams": [
+    [
+      "Agen",
+      93
+    ],
+    [
+      "Aix",
+      15
+    ],
+    [
+      "Albi",
+      6
+    ],
+    [
+      "All Blacks XV",
+      10
+    ],
+    [
+      "American Raptors",
+      1
+    ],
+    [
+      "Ampthill",
+      80
+    ],
+    [
+      "Anthem RC",
+      1
+    ],
+    [
+      "Argentina",
+      460
+    ],
+    [
+      "Argentina U20",
+      38
+    ],
+    [
+      "Argentina XV",
+      19
+    ],
+    [
+      "ASM Clermont Auvergne",
+      459
+    ],
+    [
+      "Auckland",
+      17
+    ],
+    [
+      "Aurillac",
+      37
+    ],
+    [
+      "Austin",
+      2
+    ],
+    [
+      "Australia",
+      236
+    ],
+    [
+      "Australia A",
+      11
+    ],
+    [
+      "Australia U20",
+      7
+    ],
+    [
+      "Aviron Bayonnais",
+      274
+    ],
+    [
+      "Barbarian F.C.",
+      85
+    ],
+    [
+      "Barbarians FR",
+      52
+    ],
+    [
+      "Bath Rugby",
+      701
+    ],
+    [
+      "Bay of Plenty",
+      2
+    ],
+    [
+      "Bedford",
+      45
+    ],
+    [
+      "Belgium",
+      5
+    ],
+    [
+      "Benetton",
+      450
+    ],
+    [
+      "Biarritz",
+      55
+    ],
+    [
+      "Black Lion",
+      4
+    ],
+    [
+      "BlackRams Tokyo",
+      2
+    ],
+    [
+      "Blagnac",
+      6
+    ],
+    [
+      "Blues",
+      62
+    ],
+    [
+      "Bourg-en-Bresse",
+      3
+    ],
+    [
+      "Bourgoin",
+      4
+    ],
+    [
+      "Bristol",
+      606
+    ],
+    [
+      "Brive",
+      120
+    ],
+    [
+      "Brumbies",
+      59
+    ],
+    [
+      "Bulls",
+      442
+    ],
+    [
+      "Béziers",
+      35
+    ],
+    [
+      "Caldy",
+      26
+    ],
+    [
+      "Calvisano",
+      8
+    ],
+    [
+      "Cambridge",
+      14
+    ],
+    [
+      "Canada",
+      14
+    ],
+    [
+      "Canon Eagles",
+      7
+    ],
+    [
+      "Canterbury",
+      23
+    ],
+    [
+      "Carcassonne",
+      23
+    ],
+    [
+      "Cardiff",
+      488
+    ],
+    [
+      "Castres Olympique",
+      401
+    ],
+    [
+      "Chambéry",
+      4
+    ],
+    [
+      "Cheetahs",
+      77
+    ],
+    [
+      "Chiefs",
+      58
+    ],
+    [
+      "Chile",
+      5
+    ],
+    [
+      "Chinnor",
+      10
+    ],
+    [
+      "Colomiers",
+      25
+    ],
+    [
+      "Connacht",
+      525
+    ],
+    [
+      "Cornish Pirates",
+      29
+    ],
+    [
+      "Counties Manukau",
+      9
+    ],
+    [
+      "Coventry",
+      24
+    ],
+    [
+      "Crusaders",
+      52
+    ],
+    [
+      "Dax",
+      15
+    ],
+    [
+      "Doncaster",
+      21
+    ],
+    [
+      "Dragons",
+      387
+    ],
+    [
+      "Ealing Trailfinders",
+      14
+    ],
+    [
+      "Edinburgh",
+      487
+    ],
+    [
+      "England",
+      675
+    ],
+    [
+      "England A",
+      85
+    ],
+    [
+      "England U20",
+      310
+    ],
+    [
+      "Exeter Chiefs",
+      702
+    ],
+    [
+      "Fiji",
+      192
+    ],
+    [
+      "Fiji U20",
+      4
+    ],
+    [
+      "Fijian Drua",
+      12
+    ],
+    [
+      "France",
+      719
+    ],
+    [
+      "France A",
+      34
+    ],
+    [
+      "France Développement",
+      21
+    ],
+    [
+      "France U20",
+      304
+    ],
+    [
+      "Georgia",
+      214
+    ],
+    [
+      "Georgia U20",
+      26
+    ],
+    [
+      "Glasgow",
+      534
+    ],
+    [
+      "Gloucester Rugby",
+      618
+    ],
+    [
+      "Green Rockets Tokatsu",
+      4
+    ],
+    [
+      "Grenoble",
+      103
+    ],
+    [
+      "Griquas",
+      5
+    ],
+    [
+      "Harlequins",
+      622
+    ],
+    [
+      "Hartpury RFC",
+      97
+    ],
+    [
+      "Hawke's Bay",
+      11
+    ],
+    [
+      "Highlanders",
+      42
+    ],
+    [
+      "Hurricanes",
+      45
+    ],
+    [
+      "Ireland",
+      644
+    ],
+    [
+      "Ireland A",
+      46
+    ],
+    [
+      "Ireland U20",
+      265
+    ],
+    [
+      "Italy",
+      459
+    ],
+    [
+      "Italy U20",
+      105
+    ],
+    [
+      "Jaguares",
+      63
+    ],
+    [
+      "Japan",
+      22
+    ],
+    [
+      "Japan XV",
+      1
+    ],
+    [
+      "Jersey Reds",
+      13
+    ],
+    [
+      "Kings",
+      21
+    ],
+    [
+      "Kobelco Steelers",
+      4
+    ],
+    [
+      "Kubota Spears",
+      2
+    ],
+    [
+      "LA Giltinis",
+      3
+    ],
+    [
+      "Leicester Tigers",
+      531
+    ],
+    [
+      "Leinster",
+      653
+    ],
+    [
+      "Lions",
+      383
+    ],
+    [
+      "London Irish",
+      224
+    ],
+    [
+      "London Scottish",
+      83
+    ],
+    [
+      "London Welsh",
+      2
+    ],
+    [
+      "Lyon Olympique Universitaire Rugby",
+      426
+    ],
+    [
+      "Manawatu",
+      10
+    ],
+    [
+      "Massy",
+      16
+    ],
+    [
+      "Miami",
+      2
+    ],
+    [
+      "Mie Honda Heat",
+      5
+    ],
+    [
+      "Moana Pasifika",
+      10
+    ],
+    [
+      "Mogliano",
+      1
+    ],
+    [
+      "Mont-de-Marsan",
+      36
+    ],
+    [
+      "Montpellier Hérault Rugby",
+      431
+    ],
+    [
+      "Munster",
+      460
+    ],
+    [
+      "Māori All Blacks",
+      1
+    ],
+    [
+      "Namibia",
+      8
+    ],
+    [
+      "Narbonne",
+      9
+    ],
+    [
+      "Nevers",
+      42
+    ],
+    [
+      "New England",
+      7
+    ],
+    [
+      "New Zealand",
+      95
+    ],
+    [
+      "New Zealand U20",
+      4
+    ],
+    [
+      "Newcastle",
+      447
+    ],
+    [
+      "North Harbour",
+      9
+    ],
+    [
+      "Northampton Saints",
+      575
+    ],
+    [
+      "Northland",
+      7
+    ],
+    [
+      "Nottingham",
+      43
+    ],
+    [
+      "Old Glory DC",
+      5
+    ],
+    [
+      "Ospreys",
+      494
+    ],
+    [
+      "Otago",
+      11
+    ],
+    [
+      "Oyonnax",
+      75
+    ],
+    [
+      "Pau",
+      379
+    ],
+    [
+      "Perpignan",
+      298
+    ],
+    [
+      "Pumas",
+      4
+    ],
+    [
+      "Périgueux",
+      1
+    ],
+    [
+      "Racing 92",
+      504
+    ],
+    [
+      "Rebels",
+      68
+    ],
+    [
+      "Red Hurricanes",
+      3
+    ],
+    [
+      "Reds",
+      63
+    ],
+    [
+      "Richmond",
+      1
+    ],
+    [
+      "Romania",
+      7
+    ],
+    [
+      "Rouen",
+      14
+    ],
+    [
+      "Russia",
+      6
+    ],
+    [
+      "Sagamihara",
+      3
+    ],
+    [
+      "Sale Sharks",
+      700
+    ],
+    [
+      "Samoa",
+      110
+    ],
+    [
+      "San Diego",
+      12
+    ],
+    [
+      "Saracens",
+      646
+    ],
+    [
+      "Scarlets",
+      484
+    ],
+    [
+      "Scotland",
+      671
+    ],
+    [
+      "Scotland A",
+      23
+    ],
+    [
+      "Scotland U20",
+      135
+    ],
+    [
+      "Sharks",
+      432
+    ],
+    [
+      "Shimizu Blue Sharks",
+      3
+    ],
+    [
+      "Shizuoka Blue Revs",
+      3
+    ],
+    [
+      "South Africa",
+      567
+    ],
+    [
+      "South Africa U20",
+      111
+    ],
+    [
+      "Southland",
+      2
+    ],
+    [
+      "Soyaux-Angoulême",
+      13
+    ],
+    [
+      "Spain",
+      33
+    ],
+    [
+      "Spain U20",
+      14
+    ],
+    [
+      "Stade Français Paris",
+      422
+    ],
+    [
+      "Stade Rochelais",
+      473
+    ],
+    [
+      "Stormers",
+      490
+    ],
+    [
+      "Sunwolves",
+      5
+    ],
+    [
+      "Taranaki",
+      9
+    ],
+    [
+      "Tarbes",
+      6
+    ],
+    [
+      "Tasman",
+      16
+    ],
+    [
+      "Tokyo Sungoliath",
+      4
+    ],
+    [
+      "Tonga",
+      105
+    ],
+    [
+      "Toronto",
+      3
+    ],
+    [
+      "Toulon",
+      460
+    ],
+    [
+      "Toulouse",
+      533
+    ],
+    [
+      "Toyota Verblitz",
+      5
+    ],
+    [
+      "Ulster",
+      468
+    ],
+    [
+      "Union Bordeaux-Bègles",
+      422
+    ],
+    [
+      "Union Sportive Montauban",
+      156
+    ],
+    [
+      "Urayasu",
+      7
+    ],
+    [
+      "Uruguay",
+      6
+    ],
+    [
+      "USA",
+      43
+    ],
+    [
+      "Utah",
+      4
+    ],
+    [
+      "Valence Romans",
+      5
+    ],
+    [
+      "Vannes",
+      38
+    ],
+    [
+      "Waikato",
+      5
+    ],
+    [
+      "Wales",
+      667
+    ],
+    [
+      "Wales U20",
+      269
+    ],
+    [
+      "Waratahs",
+      88
+    ],
+    [
+      "Wasps",
+      349
+    ],
+    [
+      "Wellington",
+      7
+    ],
+    [
+      "Western Force",
+      35
+    ],
+    [
+      "Worcester",
+      183
+    ],
+    [
+      "Zebre",
+      327
+    ]
+  ]
+}

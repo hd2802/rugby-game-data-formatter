@@ -1,0 +1,1 @@
+Simple project to format data scraped by the rugby game scraper to be less embedded.
