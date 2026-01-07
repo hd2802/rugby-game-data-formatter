@@ -31,6 +31,7 @@ def format_player_data(player_data):
         for key in obj:
             for player in obj[key]:
                 pd, sd = process_season_history(player)
+                pd['team'] = key
                 player_array.append(pd)
                 for o in sd:
                     season_data.append(o)
